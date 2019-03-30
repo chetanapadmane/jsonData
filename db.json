@@ -28,7 +28,9 @@
   "profile": {
     "name": "typicode"
   },
-  "users":{
+  "users":[{
     "name":"chetana"
-  }
+  },{
+    "name":"priyanka"
+  }]
 }
